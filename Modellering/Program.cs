@@ -10,6 +10,7 @@ namespace Modellering
            football theBall = new football();
            football ball2 = new football();
 
+
            Player p1 = new Player();
            Player p2 = new Player();
 
